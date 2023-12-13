@@ -1,6 +1,3 @@
-
-
-# Initialise message, for first time start
 print("""
 Welcome to UniBuddy! 
 Your all-in-one app that makes your freshman jounrey a bit easier to navigate!
